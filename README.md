@@ -1,28 +1,28 @@
 ## Problem Statement:
 
-#Objective:
+# Objective:
 
 To create a useful tool for Jamboree that helps Indian students predict their chances of getting into Ivy League colleges.
 
-#Key Goals:
+# Key Goals:
 
-#Identify Important Factors:
+# Identify Important Factors:
 
 Find out the key things that affect admissions to Ivy League schools for Indian students. These might include grades, test scores (GMAT, GRE, SAT), activities outside of school, work experience, recommendation letters, and personal essays.
 
-#Understand Relationships:
+# Understand Relationships:
 
 See how these factors influence each other and how they work together to affect admission chances. Determine the importance of each factor in the admission process.
 
-#Build Predictive Insights:
+# Build Predictive Insights:
 
 Develop a model that can predict a student’s chances of getting into an Ivy League school based on their profile. Use past data and statistical methods to make accurate predictions.
 
-#Improve User Experience:
+# Improve User Experience:
 
 Add this predictive model to Jamboree’s website in a way that’s easy to use. Students should be able to enter their details and see their admission chances, along with tips to improve their profiles.
 
-#Expected Outcomes:
+# Expected Outcomes:
 
 * A clear understanding of the factors affecting Ivy League admissions for Indian students.
 
@@ -34,9 +34,9 @@ Add this predictive model to Jamboree’s website in a way that’s easy to use.
 
 This will help Jamboree guide their students better, increasing their chances of getting into top colleges.
 
-#Based on the model evaluation results and the regression analysis, here are some summarized recommendations:
+# Based on the model evaluation results and the regression analysis, here are some summarized recommendations:
 
-#Model Performance:
+# Model Performance:
 
 * Mean Absolute Error (MAE): 0.0505
 
@@ -56,7 +56,7 @@ This will help Jamboree guide their students better, increasing their chances of
 
 * Approximately 75.95% of the variance in the "Chance of Admit" can be explained by the model's features. This is a good level of explanatory power.
 
-#OLS Regression Results:
+# OLS Regression Results:
 * R-squared (R²): 0.839
 
 * A higher value than the test R², indicating that the model fits the training data well.
@@ -65,7 +65,7 @@ This will help Jamboree guide their students better, increasing their chances of
 * F-statistic: 383.6 (Prob > F: 9.78e-144)
 * The very high F-statistic and extremely low p-value indicate that the overall model is statistically significant.
 
-#Understanding the Coefficients:
+# Understanding the Coefficients:
 
 * Coefficient Interpretation:
 
