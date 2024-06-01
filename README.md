@@ -39,7 +39,7 @@ This will help Jamboree guide their students better, increasing their chances of
 
 # Based on the model evaluation results and the regression analysis, here are some summarized recommendations:
 
-# Model Performance:
+# Model Performance On Test Data:
 
 * Mean Absolute Error (MAE): 0.0505
 
