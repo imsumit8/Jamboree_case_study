@@ -34,6 +34,9 @@ Add this predictive model to Jamboree’s website in a way that’s easy to use.
 
 This will help Jamboree guide their students better, increasing their chances of getting into top colleges.
 
+# Analysis Overview:
+- [Jupyter Notebook link : Analysis on DATA](Jamboree_Case_Study.ipynb)
+
 # Based on the model evaluation results and the regression analysis, here are some summarized recommendations:
 
 # Model Performance:
