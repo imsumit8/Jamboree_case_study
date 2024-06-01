@@ -108,3 +108,8 @@ influence admission chances.
 ## Engage in Research:
 
 * Participate in research projects and seek opportunities to gain research experience, as it adds value to your application.
+
+## License
+MIT License
+
+Copyright (c) 2024 Sumit Chowdhury
